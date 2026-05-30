@@ -12,7 +12,7 @@ Find the source code here: [XrayR-project/XrayR](https://github.com/mottzz87/Xra
 # 一键安装
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mottzz87/XrayR-release/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/xigua761/XrayR-release-Newest/master/install.sh)
 ```
 # Docker 安装
 
